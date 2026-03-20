@@ -1,0 +1,27 @@
+# 核心深度學習框架
+torch>=2.0.0
+torchvision
+numpy>=1.24.0
+
+# 影像處理與電腦視覺
+opencv-python>=4.8.0
+Pillow>=10.0.0
+scipy>=1.10.0
+scikit-image>=0.21.0
+
+# 醫學影像專用格式 (DICOM/NIfTI)
+SimpleITK>=2.3.0
+pydicom>=2.4.0
+nibabel>=5.1.0
+
+# 肺部自動分割工具
+lungmask>=0.2.13
+
+# GUI 與進度條
+# 如果你最後決定完全用 tkinter，可以不用安裝 PyQt6，但建議保留以供未來升級
+# PyQt6>=6.5.0 
+tqdm>=4.65.0
+
+# 其他工具
+pathlib
+argparse
