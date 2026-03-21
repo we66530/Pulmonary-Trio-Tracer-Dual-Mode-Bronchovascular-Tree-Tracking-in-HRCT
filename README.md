@@ -57,7 +57,7 @@ cd Pulmonary-Trio-Tracer
 
 # Install requirements
 pip install -r requirements.txt
-
+```
 
 ---
 
