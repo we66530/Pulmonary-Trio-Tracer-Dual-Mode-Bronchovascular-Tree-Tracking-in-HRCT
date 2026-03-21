@@ -57,3 +57,15 @@ cd Pulmonary-Trio-Tracer
 
 # Install requirements
 pip install -r requirements.txt
+
+
+---
+
+## 🚀 How to Use (Step-by-Step)
+
+Follow these steps to process your CT scans using the Pulmonary Trio Tracer GUI.
+
+### 1. Launch the Application
+Open your terminal or Anaconda Prompt and run:
+```bash
+python main_gui.py
