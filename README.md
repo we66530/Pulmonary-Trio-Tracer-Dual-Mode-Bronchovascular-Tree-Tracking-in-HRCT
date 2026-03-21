@@ -13,7 +13,7 @@ A high-precision deep learning pipeline for the simultaneous segmentation and tr
 
 | Seed-based Expert Tracking | Global Inference (Fully Automated) |
 | :---: | :---: |
-| <video src="results/WithSeed.mp4" autoplay loop muted playsinline width="100%"></video><br>[Download Video](results/WithSeed.mp4) | <video src="results/NoSeed.mp4" autoplay loop muted playsinline width="100%"></video><br>[Download Video](results/NoSeed.mp4) |
+| <video src="results/WithSeed.mp4" poster="results/WithSeed_00067.jpg" autoplay loop muted playsinline width="100%"></video><br>📥 [Download MP4](results/WithSeed.mp4) | <video src="results/NoSeed.mp4" poster="results/NoSeed_00067.jpg" autoplay loop muted playsinline width="100%"></video><br>📥 [Download MP4](results/NoSeed.mp4) |
 | *High precision tracking from expert seeds* | *Rapid end-to-end automated segmentation* |
 
 
